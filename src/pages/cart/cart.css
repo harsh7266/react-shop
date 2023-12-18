@@ -11,4 +11,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 25px
 }
+.total p{
+    font-size: 50px;
+    font-weight: 150px;
+}
+.total{
+    margin: 40px;
+}
+

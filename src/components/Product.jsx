@@ -13,7 +13,7 @@ function Product(props) {
         <img src={image} alt="" />
       </div>
       <div className="description">
-        <h3>{title}</h3>
+        <h2>{title}</h2>
       </div>
         <p>${price}</p>
       <div className="btn">

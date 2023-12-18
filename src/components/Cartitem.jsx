@@ -11,6 +11,7 @@ function Cartitem(props) {
        <div className="image">
       <img src={image} alt="" />
        </div>
+
       <div className="description">
         <p>
           <b>{title}----</b>
@@ -28,5 +29,7 @@ function Cartitem(props) {
 }
 
 export default Cartitem;
+
+
 
 

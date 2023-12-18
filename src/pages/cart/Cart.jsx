@@ -26,7 +26,7 @@ function Cart() {
       </div>
 
       <div className='total'>
-          <p>subtotal ${getTotalcartamount()}</p>
+          <p>Subtotal-----${getTotalcartamount()}</p>
       </div>
 
     </div>
