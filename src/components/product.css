@@ -1,0 +1,14 @@
+.products img{
+    height: 150px;
+    width: 150px;
+    
+}
+.products p{
+    font-size: 15px;
+}
+.btn{
+    margin: 10px;
+}
+.products{
+    padding: 10px;
+}
